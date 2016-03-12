@@ -19,6 +19,7 @@ public class MainGraphics {
 		   
 		   System.out.println("Hello ZAIBI EDIT");
 		   System.out.println("Who will Start First \n0- You\n1- Transformer\nOption : ");
+		System.out.println("Umar's Edited ");
 		   int turn = inp.nextInt();
 		   
 		   if(turn==0){
